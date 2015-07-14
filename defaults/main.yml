@@ -13,3 +13,4 @@ nodejs_global_packages:
   - bower
   - yo
   - generator-webapp
+  - jsctags
