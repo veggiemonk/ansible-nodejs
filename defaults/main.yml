@@ -1,8 +1,15 @@
 ---
-nodejs_version: "0.10.36"
+nodejs_version: "0.12.7"
+nodejs_install_method: "binary"
 nodejs_path: "/usr/local/"
 nodejs_tmp_dir: "/tmp/"
 nodejs_global_packages:
   - nodemon
   - debug
   - foreman
+  - forever
+  - grunt
+  - grunt-cli
+  - bower
+  - yo
+  - generator-webapp
